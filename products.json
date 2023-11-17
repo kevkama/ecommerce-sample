@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "name":"Graffiti",
+        "price":57.99,
+        "image":"images/grafitti.jpg"
+    },
+    {
+        "id":2,
+        "name":"Hoodies",
+        "price":67.99,
+        "image":"images/hoodies.jpg"
+    },
+    {
+        "id":3,
+        "name":"Quality hoodies",
+        "price":57.99,
+        "image":"images/tan-hoodie.jpg"
+    },
+    {
+        "id":4,
+        "name":"Black Sweat-pants",
+        "price":35.99,
+        "image":"images/blacked-sweats-bottoms-blacked.webp"
+    },
+    {
+        "id":5,
+        "name":"cozy sweat pants",
+        "price":37.99,
+        "image":"images/ultrasoft-sweats.jpg"
+    },
+    {
+        "id":6,
+        "name":"Sweatpants",
+        "price":37.99,
+        "image":"images/SWEATPANT_BLACK_WEB_PANTS_STOREVIEW_NEW__47681.jpg"
+    },
+    {
+        "id":7,
+        "name":"Kids Joggers",
+        "price":37.99,
+        "image":"images/kids joggers.avif"
+    },
+    {
+        "id":8,
+        "name":"Kids Sweats",
+        "price":27.99,
+        "image":"images/kids-pants.webp"
+    },
+    {
+        "id":9,
+        "name":"Kids sweat suits",
+        "price":67.99,
+        "image":"images/kids-sweats.jpg"
+    },
+    {
+        "id":10,
+        "name":"For ladies",
+        "price":37.99,
+        "image":"images/petite stitch sweat pants.webp"
+    },
+    {
+        "id":11,
+        "name":"Unisex",
+        "price":47.99,
+        "image":"images/sweat-shirts.webp"
+    },
+    {
+        "id":12,
+        "name":"Matching sets",
+        "price":87.99,
+        "image":"images/unisex-joggers.webp"
+    }
+]
